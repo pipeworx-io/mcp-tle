@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TLE MCP — satellite tracking via Two-Line Element sets (tle.ivanstanojevic.me, free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-774780c6fcb3d87a61cbf43d7ee586823ce7ea53950dc1417def48fd43b0497b",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-6d562d076aa59cee2ae5a5d6e3eb38d61fd86213cdb93255630e775a52b85beb",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
